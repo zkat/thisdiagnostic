@@ -2,6 +2,12 @@
 name = "thisdiagnostic-derive"
 version = "0.1.0"
 authors = ["Kat Marchán <kzm@zkat.tech>"]
+description = "derive macro for thisdiagnostic"
+categories = ["rust-patterns"]
+repository = "https://github.com/zkat/thisdiagnostic"
+documentation = "https://docs.rs/thisdiagnostic"
+license = "Apache-2.0"
+readme = "../README.md"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
